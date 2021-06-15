@@ -29,7 +29,7 @@ public class Main extends HttpServlet {
         writer.println("<html>");
         writer.println(
                 "<h1 align=\"center\">" +
-                        "It works somehow updated" +
+                        "It works somehow" +
                         "</h1>"
         );
         writer.println("</html>");
